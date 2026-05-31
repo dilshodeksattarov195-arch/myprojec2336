@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceserify",
+        "uuid": 14340704,
+        "checksum": "90hsif"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
